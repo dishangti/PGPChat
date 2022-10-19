@@ -1,2 +1,2 @@
 # PGPChat
-Chat over PGP easily
+Chat over PGP safely and easily.
